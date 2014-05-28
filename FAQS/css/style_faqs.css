@@ -50,39 +50,19 @@ nav{
 		color:#FFFFFF;
 		float: left;
 	}
-	
-aside {
-	width: 980px;
-	margin: 0 auto;
-	clear: both;
+section{
+	width: 974px;
 	position: relative;
-	
+	clear: both;
+	margin: 0 auto;
 }
-	aside article{
-		float: left;
-		width: 150px;
-		height: 550px;
-		margin: 5px;
-		border: solid 1px #000000;
+	section p,h5{
+		margin: 0 0 15px 0;
 	}
-		aside article ul li{
-			display: block;
-			margin: 8px 25px;
-			color: #FFFFFF;
-		}
-		aside article a.link, a:visited{
-		color:#FFFFFF;	
-		}
-	aside section{
-		width: 800px;
-		margin: 5px auto;
-		float: right;
+	section h2{
+		color: #0067dd;
+		text-align: center;
 	}
-		aside section img{
-			width: 200px;
-			height: 150px;
-			margin: 10px 30px;
-		}
 footer{
 	width: 980px;
 	height: 35px;
